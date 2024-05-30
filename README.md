@@ -18,4 +18,3 @@ If you have any questions or would like to collaborate on a project, you can rea
 Thank you for visiting my GitHub profile!
 
 ---
-![Profile views](https://gpvc.arturio.dev/Anirudh5d)
